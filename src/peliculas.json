@@ -1,0 +1,22 @@
+{
+    "peliculas": [
+        {
+            "tittle": "Lo que el lodo se llevó",
+            "creador" : "lodonsio",
+            "descripción" : "Peliculas sobre perros",
+            "Nota": "5.5"
+        },
+        {
+            "tittle": "Revengers Unlimited war",
+            "creador" : "dasney",
+            "descripción" : "pelicula de super Heroes",
+            "Nota": "9.9"
+        },
+        {
+            "tittle": "Taitanic",
+            "creador" : "jaime camarón",
+            "descripción" : "pelicula que se una un bote",
+            "Nota": "7.7"
+        }
+        ]
+}
